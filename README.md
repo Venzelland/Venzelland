@@ -1,4 +1,4 @@
-### Всем привет! Меня зовут Марина 👋
+### Всем привет! Меня зовут Павел 👋
 
 ## Мои проекты 
 <details>
@@ -43,6 +43,5 @@
 Английский язык – B1
 
 <summary><h2><b>⭐GitHub stats</b></h2></summary>
-<!--[![Top Langs](https://github-readme-stats.vercel.app/api?username=Venzelland&theme=radical)](https://github.com/anuraghazra/github-readme-stats)&nbsp;-->
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Venzelland&theme=radical)
