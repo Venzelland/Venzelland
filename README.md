@@ -17,6 +17,31 @@
       <td>JavaScript, CSS, HTML</td>
       <td><b>Pet project.</b> Карточная игра "Найди пару" на JS.</td>
     </tr>
+    <tr>
+      <td><a href='https://venzelland.github.io/math-inequality-gam'>Math Inequality Game</a></td>
+      <td>JavaScript, CSS, HTML</td>
+      <td><b>Pet project.</b> Игра для улучшения навыков решения неравенств.</td>
+    </tr>
+    <tr>
+      <td><a href='https://venzelland.github.io/crosses-and-zeroes'>Crosses and Zeroes</a></td>
+      <td>JavaScript, CSS, HTML</td>
+      <td><b>Pet project.</b> Реализация популярной игры "Крестики-нолики".</td>
+    </tr>
+    <tr>
+      <td><a href='https://venzelland.github.io/game-bulls-cows'>Game Bulls and Cows</a></td>
+      <td>JavaScript, CSS, HTML</td>
+      <td><b>Pet project.</b> Игра "Быки и коровы" для тренировки логического мышления.</td>
+    </tr>
+    <tr>
+      <td><a href='https://venzelland.github.io/Todolist'>Todolist</a></td>
+      <td>React, TypeScript</td>
+      <td><b>Pet project.</b> Приложение для управления задачами с использованием React и TypeScript.</td>
+    </tr>
+    <tr>
+      <td><a href='https://venzelland.github.io/Portfolio'>Portfolio</a></td>
+      <td>JavaScript, CSS, HTML</td>
+      <td><b>Pet project.</b> Мое портфолио, демонстрирующее мои навыки и проекты.</td>
+    </tr>
   </tbody>
 </table>
 </details>
