@@ -14,7 +14,7 @@
   </thead>
   <tbody>
     <tr>
-      <td><a href='https://github.com/Venzelland/memory-game'>Игра "Найди пару" на JS</a></td>
+      <td><a href='https://venzelland.github.io/memory-game/'>Игра "Найди пару" на JS</a></td>
       <td>JavaScript, CSS, HTML</td>
       <td><b>Pet project.</b> Карточная игра "Найди пару" на JS.</td>
       <td><a href='https://github.com/Venzelland/memory-game'>GitHub</a></td>
