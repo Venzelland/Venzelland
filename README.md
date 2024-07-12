@@ -52,7 +52,7 @@
     <tr>
       <td><a href='https://venzelland.github.io/card-memory'>Card Memory Game</a></td>
       <td>JavaScript, CSS, HTML</td>
-      <td><b>Pet project.</b> Карточная игра на память.</td>
+      <td><b>Pet project.</b> Приложение для запоминание слов иностранного языка</td>
       <td><a href='https://github.com/Venzelland/card-memory'>GitHub</a></td>
     </tr>
   </tbody>
