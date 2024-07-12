@@ -23,7 +23,7 @@
       <td><a href='https://venzelland.github.io/math-inequality-game'>Math Inequality Game</a></td>
       <td>JavaScript, CSS, HTML</td>
       <td><b>Pet project.</b> Игра для улучшения навыков решения неравенств.</td>
-      <td><a href='https://github.com/Venzelland/math-inequality-game'>GitHub</a></td>
+      <td><a href='https://github.com/Venzelland/math-inequality-gam'>GitHub</a></td>
     </tr>
     <tr>
       <td><a href='https://venzelland.github.io/crosses-and-zeroes'>Crosses and Zeroes</a></td>
