@@ -9,42 +9,56 @@
       <th>Название</th>
       <th>Использованные технологии</th>
       <th>Описание</th>
+      <th>Ссылка на код</th>
     </tr>
   </thead>
   <tbody>
-     <tr>
+    <tr>
       <td><a href='https://github.com/Venzelland/memory-game'>Игра "Найди пару" на JS</a></td>
       <td>JavaScript, CSS, HTML</td>
       <td><b>Pet project.</b> Карточная игра "Найди пару" на JS.</td>
+      <td><a href='https://github.com/Venzelland/memory-game'>GitHub</a></td>
     </tr>
     <tr>
-      <td><a href='https://venzelland.github.io/math-inequality-gam'>Math Inequality Game</a></td>
+      <td><a href='https://venzelland.github.io/math-inequality-game'>Math Inequality Game</a></td>
       <td>JavaScript, CSS, HTML</td>
       <td><b>Pet project.</b> Игра для улучшения навыков решения неравенств.</td>
+      <td><a href='https://github.com/Venzelland/math-inequality-game'>GitHub</a></td>
     </tr>
     <tr>
       <td><a href='https://venzelland.github.io/crosses-and-zeroes'>Crosses and Zeroes</a></td>
       <td>JavaScript, CSS, HTML</td>
       <td><b>Pet project.</b> Реализация популярной игры "Крестики-нолики".</td>
+      <td><a href='https://github.com/Venzelland/crosses-and-zeroes'>GitHub</a></td>
     </tr>
     <tr>
       <td><a href='https://venzelland.github.io/game-bulls-cows'>Game Bulls and Cows</a></td>
       <td>JavaScript, CSS, HTML</td>
       <td><b>Pet project.</b> Игра "Быки и коровы" для тренировки логического мышления.</td>
+      <td><a href='https://github.com/Venzelland/game-bulls-cows'>GitHub</a></td>
     </tr>
     <tr>
       <td><a href='https://venzelland.github.io/Todolist'>Todolist</a></td>
       <td>React, TypeScript</td>
       <td><b>Pet project.</b> Приложение для управления задачами с использованием React и TypeScript.</td>
+      <td><a href='https://github.com/Venzelland/Todolist'>GitHub</a></td>
     </tr>
     <tr>
       <td><a href='https://venzelland.github.io/Portfolio'>Portfolio</a></td>
       <td>JavaScript, CSS, HTML</td>
       <td><b>Pet project.</b> Мое портфолио, демонстрирующее мои навыки и проекты.</td>
+      <td><a href='https://github.com/Venzelland/Portfolio'>GitHub</a></td>
+    </tr>
+    <tr>
+      <td><a href='https://venzelland.github.io/card-memory'>Card Memory Game</a></td>
+      <td>JavaScript, CSS, HTML</td>
+      <td><b>Pet project.</b> Карточная игра на память.</td>
+      <td><a href='https://github.com/Venzelland/card-memory'>GitHub</a></td>
     </tr>
   </tbody>
 </table>
 </details>
+
 
 ## Мой стек
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
