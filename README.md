@@ -20,7 +20,7 @@
       <td><a href='https://github.com/Venzelland/memory-game'>GitHub</a></td>
     </tr>
     <tr>
-      <td><a href='https://venzelland.github.io/math-inequality-game'>Math Inequality Game</a></td>
+      <td><a href='https://venzelland.github.io/math-inequality-gam/'>Math Inequality Game</a></td>
       <td>JavaScript, CSS, HTML</td>
       <td><b>Pet project.</b> Игра для улучшения навыков решения неравенств.</td>
       <td><a href='https://github.com/Venzelland/math-inequality-gam'>GitHub</a></td>
